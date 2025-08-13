@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/*so the page-page link scroll will be smooth*/
+html {                     
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
